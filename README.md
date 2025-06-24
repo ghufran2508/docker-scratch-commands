@@ -17,7 +17,7 @@ EXPOSE 5000
 
 CMD [ "node", "server.js" ]
 ```
-copy past this in express app Dockerfile
+copy paste this in express app Dockerfile
 
 Then Make a build by running this command
 
